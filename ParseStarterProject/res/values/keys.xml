@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="parseApplicationId" type="id">GfHv7S0Fmuj4SrgJAasJrM13TwZBWBIKM4qr1qeJ</item>
+    <item name="parseClientKey" type="id">GfHv7S0Fmuj4SrgJAasJrM13TwZBWBIKM4qr1qeJ</item>
+</resources>
