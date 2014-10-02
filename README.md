@@ -1,7 +1,7 @@
 TUIApp
 ======
 
-An app being developed as part of TheUglyIndian hackathon.
+An android app being developed as part of TheUglyIndian hackathon.
 
 Requires Google Maps Android API version 2 Key and Parse.com API key.
 
